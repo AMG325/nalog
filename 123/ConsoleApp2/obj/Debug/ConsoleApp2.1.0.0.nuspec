@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ConsoleApp2</id>
+    <version>1.0.0</version>
+    <authors>ConsoleApp2</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Mad\Desktop\Новая папка\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.json" target="lib\netcoreapp3.1\ConsoleApp2.runtimeconfig.json" />
+    <file src="C:\Users\Mad\Desktop\Новая папка\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.dll" target="lib\netcoreapp3.1\ConsoleApp2.dll" />
+  </files>
+</package>
